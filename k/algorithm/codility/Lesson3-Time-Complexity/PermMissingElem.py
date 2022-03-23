@@ -2,9 +2,12 @@ from collections import Counter
 
 
 def solution(A):
+    print(len(A))
+    print(sum(A))
+    print(sum(range(1, len(A)+2)))
     if len(A) == 0:
         result = 1
-    else :
+    else:
         result = sum(range(1, len(A)+2)) - sum(A)
     return result
 
@@ -18,4 +21,4 @@ if __name__ == "__main__":
     A[2] = 1
     A[3] = 5
 
-    solution(A)
+    print(solution(A))
