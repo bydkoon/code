@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="codility lesson 3, 4  추가">
-      <change afterPath="$PROJECT_DIR$/k/codility/Lesson4-Counting-Elements/FrogRiverOne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson1-Iterations/BinaryGap.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson1-Iterations/BinaryGap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays/CyclicRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson2-Arrays/CyclicRotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays/OddOccurrencesInArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson2-Arrays/OddOccurrencesInArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/FrogJmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson3-Time-Complexity/FrogJmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/PermMissingElem.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson3-Time-Complexity/PermMissingElem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/TapeEquilibrium.md" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson3-Time-Complexity/TapeEquilibrium.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/TapeEquilibrium.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson3-Time-Complexity/TapeEquilibrium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements/FrogRiverOne.md" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson4-Counting-Elements/FrogRiverOne.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/리트코드/Two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/리트코드/Two_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/2016년/12901.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/2016년/12901.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/더맵게/42626.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/더맵게/42626.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/모의고사/42840.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/모의고사/42840.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/조이스틱/42806.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/조이스틱/42806.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/체육복/42862.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/체육복/42862.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/큰수만들기/42883.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/큰수만들기/42883.py" afterDir="false" />
+    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +31,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/k/기타" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/k/기타" />
       <recent name="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/k/기타" />
       <recent name="$PROJECT_DIR$/k" />
       <recent name="$PROJECT_DIR$/k/algorithm/codility" />
       <recent name="$PROJECT_DIR$/k/algorithm/codility/Lesson1-Iterations" />
@@ -197,7 +183,7 @@
       <updated>1646748506019</updated>
       <workItem from="1646748512836" duration="1921000" />
       <workItem from="1647818990107" duration="19423000" />
-      <workItem from="1648077998921" duration="6445000" />
+      <workItem from="1648077998921" duration="6676000" />
     </task>
     <task id="LOCAL-00001" summary="codility 추가">
       <created>1646749473060</created>
@@ -234,7 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648048013572</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init commit">
+      <created>1648467934150</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648467934150</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init commit">
+      <created>1648468004333</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648468004333</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,23 +257,24 @@
     <MESSAGE value="codility lesson 2-2 추가" />
     <MESSAGE value="codility lesson 3 추가" />
     <MESSAGE value="codility lesson 3, 4  추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="codility lesson 3, 4  추가" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/k/codility/Lesson2-Arrays/CyclicRotation.py</url>
+          <url>file://$PROJECT_DIR$/algorithm/codility/Lesson2-Arrays/CyclicRotation.py</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/k/codility/Lesson2-Arrays/CyclicRotation.py</url>
+          <url>file://$PROJECT_DIR$/algorithm/codility/Lesson2-Arrays/CyclicRotation.py</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/k/codility/Lesson2-Arrays/OddOccurrencesInArray.py</url>
+          <url>file://$PROJECT_DIR$/algorithm/codility/Lesson2-Arrays/OddOccurrencesInArray.py</url>
           <line>11</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
