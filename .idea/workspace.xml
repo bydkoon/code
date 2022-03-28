@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="codility 추가">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays/CyclicRotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson1-Iterations/BinaryGap /BinaryGap.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/algorithm/codility/Lesson1-Iterations/BinaryGap.py" afterDir="false" />
+    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="codility lesson 3, 4  추가">
+      <change afterPath="$PROJECT_DIR$/k/codility/Lesson4-Counting-Elements/FrogRiverOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson1-Iterations/BinaryGap.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson1-Iterations/BinaryGap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays/CyclicRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson2-Arrays/CyclicRotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays/OddOccurrencesInArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson2-Arrays/OddOccurrencesInArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/FrogJmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson3-Time-Complexity/FrogJmp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/PermMissingElem.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson3-Time-Complexity/PermMissingElem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/TapeEquilibrium.md" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson3-Time-Complexity/TapeEquilibrium.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/TapeEquilibrium.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson3-Time-Complexity/TapeEquilibrium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements/FrogRiverOne.md" beforeDir="false" afterPath="$PROJECT_DIR$/k/codility/Lesson4-Counting-Elements/FrogRiverOne.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/리트코드/Two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/리트코드/Two_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/2016년/12901.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/2016년/12901.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/더맵게/42626.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/더맵게/42626.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/모의고사/42840.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/모의고사/42840.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/조이스틱/42806.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/조이스틱/42806.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/체육복/42862.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/체육복/42862.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k/algorithm/프로그래머스/큰수만들기/42883.py" beforeDir="false" afterPath="$PROJECT_DIR$/k/프로그래머스/큰수만들기/42883.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,38 +46,20 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/k" />
       <recent name="$PROJECT_DIR$/k/algorithm/codility" />
       <recent name="$PROJECT_DIR$/k/algorithm/codility/Lesson1-Iterations" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CyclicRotation">
-    <configuration name="BinaryGap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../PycharmProjects/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/k/algorithm/codility/Lesson1-Iterations/BinaryGap" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k/algorithm/codility/Lesson1-Iterations/BinaryGap.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.FrogRiverOne">
     <configuration name="CyclicRotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,10 +82,108 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="FrogJmp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../PycharmProjects/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/FrogJmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FrogRiverOne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements/FrogRiverOne.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OddOccurrencesInArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../PycharmProjects/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays/OddOccurrencesInArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PermMissingElem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../PycharmProjects/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/PermMissingElem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.CyclicRotation" />
+      <item itemvalue="Python.OddOccurrencesInArray" />
+      <item itemvalue="Python.FrogJmp" />
+      <item itemvalue="Python.PermMissingElem" />
+      <item itemvalue="Python.FrogRiverOne" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FrogRiverOne" />
+        <item itemvalue="Python.PermMissingElem" />
+        <item itemvalue="Python.OddOccurrencesInArray" />
+        <item itemvalue="Python.FrogJmp" />
         <item itemvalue="Python.CyclicRotation" />
-        <item itemvalue="Python.BinaryGap" />
       </list>
     </recent_temporary>
   </component>
@@ -102,6 +196,8 @@
       <option name="presentableId" value="Default" />
       <updated>1646748506019</updated>
       <workItem from="1646748512836" duration="1921000" />
+      <workItem from="1647818990107" duration="19423000" />
+      <workItem from="1648077998921" duration="6445000" />
     </task>
     <task id="LOCAL-00001" summary="codility 추가">
       <created>1646749473060</created>
@@ -110,7 +206,35 @@
       <option name="project" value="LOCAL" />
       <updated>1646749473060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="codility lesson 2-2 추가">
+      <created>1647820357307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647820357307</updated>
+    </task>
+    <task id="LOCAL-00003" summary="codility lesson 2-2 추가">
+      <created>1647871226314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647871226315</updated>
+    </task>
+    <task id="LOCAL-00004" summary="codility lesson 3 추가">
+      <created>1647957899136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647957899136</updated>
+    </task>
+    <task id="LOCAL-00005" summary="codility lesson 3, 4  추가">
+      <created>1648048013571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648048013572</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,28 +250,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="codility 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="codility 추가" />
+    <MESSAGE value="codility lesson 2-2 추가" />
+    <MESSAGE value="codility lesson 3 추가" />
+    <MESSAGE value="codility lesson 3, 4  추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="codility lesson 3, 4  추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays/CyclicRotation.py</url>
+          <url>file://$PROJECT_DIR$/k/codility/Lesson2-Arrays/CyclicRotation.py</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays/CyclicRotation.py</url>
+          <url>file://$PROJECT_DIR$/k/codility/Lesson2-Arrays/CyclicRotation.py</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/k/codility/Lesson2-Arrays/OddOccurrencesInArray.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algorithm$CyclicRotation.coverage" NAME="CyclicRotation Coverage Results" MODIFIED="1646750637579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$FrogJmp.coverage" NAME="FrogJmp Coverage Results" MODIFIED="1647955343408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity" />
+    <SUITE FILE_PATH="coverage/algorithm$ffff.coverage" NAME="OddOccurrencesInArray Coverage Results" MODIFIED="1648040996400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$FrogRiverOne.coverage" NAME="FrogRiverOne Coverage Results" MODIFIED="1648132996520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements" />
+    <SUITE FILE_PATH="coverage/algorithm$PermMissingElem.coverage" NAME="PermMissingElem Coverage Results" MODIFIED="1648042996516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity" />
+    <SUITE FILE_PATH="coverage/algorithm$CyclicRotation.coverage" NAME="CyclicRotation Coverage Results" MODIFIED="1647819027102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
   </component>
 </project>
