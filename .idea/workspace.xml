@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/조이스틱/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +184,7 @@
       <updated>1646748506019</updated>
       <workItem from="1646748512836" duration="1921000" />
       <workItem from="1647818990107" duration="19423000" />
-      <workItem from="1648077998921" duration="6676000" />
+      <workItem from="1648077998921" duration="9135000" />
     </task>
     <task id="LOCAL-00001" summary="codility 추가">
       <created>1646749473060</created>
@@ -234,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648468004333</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="init commit">
+      <created>1648468074222</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1648468074222</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
