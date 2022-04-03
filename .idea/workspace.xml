@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="greedy 추가">
+    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="폴더이동">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/프로그래머스/체육복/42862.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/체육복/42862.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
       <recent name="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)" />
       <recent name="$PROJECT_DIR$/k/기타" />
       <recent name="$PROJECT_DIR$/k" />
       <recent name="$PROJECT_DIR$/k/algorithm/codility" />
@@ -185,7 +185,7 @@
       <workItem from="1646748512836" duration="1921000" />
       <workItem from="1647818990107" duration="19423000" />
       <workItem from="1648077998921" duration="9135000" />
-      <workItem from="1648564097209" duration="8360000" />
+      <workItem from="1648564097209" duration="8839000" />
     </task>
     <task id="LOCAL-00001" summary="codility 추가">
       <created>1646749473060</created>
@@ -257,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648568959336</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="폴더이동">
+      <created>1648969383476</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1648969383476</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +289,8 @@
     <MESSAGE value="codility lesson 3, 4  추가" />
     <MESSAGE value="init commit" />
     <MESSAGE value="greedy 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="greedy 추가" />
+    <MESSAGE value="폴더이동" />
+    <option name="LAST_COMMIT_MESSAGE" value="폴더이동" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
