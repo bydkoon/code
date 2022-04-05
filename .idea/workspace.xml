@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="폴더이동">
+    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="소스수정">
+      <change afterPath="$PROJECT_DIR$/algorithm/template/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/조이스틱/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/조이스틱/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="$PROJECT_DIR$/k/algorithm/codility/Lesson1-Iterations" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution">
+  <component name="RunManager" selected="Python.solution (1)">
     <configuration name="FrogRiverOne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,28 +67,6 @@
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements/FrogRiverOne.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="OddOccurrencesInArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../PycharmProjects/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays/OddOccurrencesInArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,6 +141,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,20 +196,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.FrogRiverOne" />
-      <item itemvalue="Python.OddOccurrencesInArray" />
       <item itemvalue="Python.PermMissingElem" />
       <item itemvalue="Python.ff" />
       <item itemvalue="Python.solution" />
-      <item itemvalue="Python.main" />
+      <item itemvalue="Python.solution (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.ff" />
         <item itemvalue="Python.FrogRiverOne" />
         <item itemvalue="Python.PermMissingElem" />
-        <item itemvalue="Python.OddOccurrencesInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +227,8 @@
       <workItem from="1648564097209" duration="8839000" />
       <workItem from="1648970204312" duration="3693000" />
       <workItem from="1649114287014" duration="896000" />
-      <workItem from="1649162047597" duration="4184000" />
+      <workItem from="1649162047597" duration="5456000" />
+      <workItem from="1649200992541" duration="1441000" />
     </task>
     <task id="LOCAL-00001" summary="codility 추가">
       <created>1646749473060</created>
@@ -302,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648970338246</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="소스수정">
+      <created>1649167068971</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1649167068971</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +346,8 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="greedy 추가" />
     <MESSAGE value="폴더이동" />
-    <option name="LAST_COMMIT_MESSAGE" value="폴더이동" />
+    <MESSAGE value="소스수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="소스수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -348,9 +368,9 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="9" />
+          <url>file://$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/조이스틱/solution.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -358,10 +378,11 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithm$FrogJmp.coverage" NAME="FrogJmp Coverage Results" MODIFIED="1647955343408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity" />
     <SUITE FILE_PATH="coverage/algorithm$FrogRiverOne.coverage" NAME="FrogRiverOne Coverage Results" MODIFIED="1648132996520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements" />
-    <SUITE FILE_PATH="coverage/algorithm$solution.coverage" NAME="solution 커버리지 결과" MODIFIED="1649166745754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/조이스틱" />
+    <SUITE FILE_PATH="coverage/algorithm$solution.coverage" NAME="solution 커버리지 결과" MODIFIED="1649166913563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/조이스틱" />
     <SUITE FILE_PATH="coverage/algorithm$ff.coverage" NAME="ff Coverage Results" MODIFIED="1648595728737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/codility/Lesson4-Counting-Elements" />
     <SUITE FILE_PATH="coverage/algorithm$PermMissingElem.coverage" NAME="PermMissingElem Coverage Results" MODIFIED="1648042996516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity" />
     <SUITE FILE_PATH="coverage/algorithm$CyclicRotation.coverage" NAME="CyclicRotation Coverage Results" MODIFIED="1647819027102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$solution__1_.coverage" NAME="solution (1) 커버리지 결과" MODIFIED="1649202412230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트" />
     <SUITE FILE_PATH="coverage/algorithm$ffff.coverage" NAME="OddOccurrencesInArray Coverage Results" MODIFIED="1648040996400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
   </component>
 </project>
