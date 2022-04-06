@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="소스수정">
-      <change afterPath="$PROJECT_DIR$/algorithm/template/template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트/solution.py" afterDir="false" />
+    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="42885 init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +227,7 @@
       <workItem from="1648970204312" duration="3693000" />
       <workItem from="1649114287014" duration="896000" />
       <workItem from="1649162047597" duration="5456000" />
-      <workItem from="1649200992541" duration="1441000" />
+      <workItem from="1649200992541" duration="4925000" />
     </task>
     <task id="LOCAL-00001" summary="codility 추가">
       <created>1646749473060</created>
@@ -321,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649167068971</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="42885 init">
+      <created>1649202683169</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1649202683169</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +353,8 @@
     <MESSAGE value="greedy 추가" />
     <MESSAGE value="폴더이동" />
     <MESSAGE value="소스수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="소스수정" />
+    <MESSAGE value="42885 init" />
+    <option name="LAST_COMMIT_MESSAGE" value="42885 init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -382,7 +389,7 @@
     <SUITE FILE_PATH="coverage/algorithm$ff.coverage" NAME="ff Coverage Results" MODIFIED="1648595728737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/codility/Lesson4-Counting-Elements" />
     <SUITE FILE_PATH="coverage/algorithm$PermMissingElem.coverage" NAME="PermMissingElem Coverage Results" MODIFIED="1648042996516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity" />
     <SUITE FILE_PATH="coverage/algorithm$CyclicRotation.coverage" NAME="CyclicRotation Coverage Results" MODIFIED="1647819027102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
-    <SUITE FILE_PATH="coverage/algorithm$solution__1_.coverage" NAME="solution (1) 커버리지 결과" MODIFIED="1649202412230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트" />
+    <SUITE FILE_PATH="coverage/algorithm$solution__1_.coverage" NAME="solution (1) 커버리지 결과" MODIFIED="1649244816509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트" />
     <SUITE FILE_PATH="coverage/algorithm$ffff.coverage" NAME="OddOccurrencesInArray Coverage Results" MODIFIED="1648040996400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
   </component>
 </project>
