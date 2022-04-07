@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="42885 init">
+    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="42885 end">
+      <change afterPath="$PROJECT_DIR$/algorithm/프로그래머스/힙/더맵게/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
@@ -51,7 +53,7 @@
       <recent name="$PROJECT_DIR$/k/algorithm/codility/Lesson1-Iterations" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution (1)">
+  <component name="RunManager" selected="Python.solution (2)">
     <configuration name="FrogRiverOne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,28 +68,6 @@
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k/algorithm/codility/Lesson4-Counting-Elements/FrogRiverOne.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PermMissingElem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../PycharmProjects/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k/algorithm/codility/Lesson3-Time-Complexity/PermMissingElem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,6 +152,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm/프로그래머스/힙/더맵게" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/프로그래머스/힙/더맵게/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,18 +209,18 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.FrogRiverOne" />
-      <item itemvalue="Python.PermMissingElem" />
       <item itemvalue="Python.ff" />
       <item itemvalue="Python.solution" />
       <item itemvalue="Python.solution (1)" />
+      <item itemvalue="Python.solution (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.ff" />
         <item itemvalue="Python.FrogRiverOne" />
-        <item itemvalue="Python.PermMissingElem" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +239,9 @@
       <workItem from="1648970204312" duration="3693000" />
       <workItem from="1649114287014" duration="896000" />
       <workItem from="1649162047597" duration="5456000" />
-      <workItem from="1649200992541" duration="4925000" />
+      <workItem from="1649200992541" duration="6076000" />
+      <workItem from="1649255220546" duration="1256000" />
+      <workItem from="1649340141606" duration="1755000" />
     </task>
     <task id="LOCAL-00001" summary="codility 추가">
       <created>1646749473060</created>
@@ -327,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649202683169</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="42885 end">
+      <created>1649245242640</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1649245242640</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,7 +375,8 @@
     <MESSAGE value="폴더이동" />
     <MESSAGE value="소스수정" />
     <MESSAGE value="42885 init" />
-    <option name="LAST_COMMIT_MESSAGE" value="42885 init" />
+    <MESSAGE value="42885 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="42885 end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -379,6 +401,11 @@
           <line>13</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -391,5 +418,6 @@
     <SUITE FILE_PATH="coverage/algorithm$CyclicRotation.coverage" NAME="CyclicRotation Coverage Results" MODIFIED="1647819027102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
     <SUITE FILE_PATH="coverage/algorithm$solution__1_.coverage" NAME="solution (1) 커버리지 결과" MODIFIED="1649244816509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트" />
     <SUITE FILE_PATH="coverage/algorithm$ffff.coverage" NAME="OddOccurrencesInArray Coverage Results" MODIFIED="1648040996400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
+    <SUITE FILE_PATH="coverage/algorithm$solution__2_.coverage" NAME="solution (2) Coverage Results" MODIFIED="1649341068740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/힙/더맵게" />
   </component>
 </project>
