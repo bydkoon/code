@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="42885 end">
-      <change afterPath="$PROJECT_DIR$/algorithm/프로그래머스/힙/더맵게/solution.py" afterDir="false" />
+    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="42626 힙 add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/프로그래머스/힙/더맵게/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/프로그래머스/힙/더맵게/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +241,8 @@
       <workItem from="1649162047597" duration="5456000" />
       <workItem from="1649200992541" duration="6076000" />
       <workItem from="1649255220546" duration="1256000" />
-      <workItem from="1649340141606" duration="1755000" />
+      <workItem from="1649340141606" duration="2789000" />
+      <workItem from="1649471356042" duration="755000" />
     </task>
     <task id="LOCAL-00001" summary="codility 추가">
       <created>1646749473060</created>
@@ -348,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649245242640</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="42626 힙 add">
+      <created>1649342105810</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1649342105810</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +384,8 @@
     <MESSAGE value="소스수정" />
     <MESSAGE value="42885 init" />
     <MESSAGE value="42885 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="42885 end" />
+    <MESSAGE value="42626 힙 add" />
+    <option name="LAST_COMMIT_MESSAGE" value="42626 힙 add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
