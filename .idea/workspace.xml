@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="42626 힙 수정">
-      <change afterPath="$PROJECT_DIR$/algorithm/프로그래머스/스택큐/다리를지나는트럭/42583.py" afterDir="false" />
+    <list default="true" id="33d5d244-b38a-4b1e-92bd-2c0e09c29665" name="Changes" comment="42583 스택/힙 문제 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +262,7 @@
       <workItem from="1649255220546" duration="1256000" />
       <workItem from="1649340141606" duration="2789000" />
       <workItem from="1649471356042" duration="7412000" />
-      <workItem from="1649938524223" duration="1467000" />
+      <workItem from="1649938524223" duration="6722000" />
     </task>
     <task id="LOCAL-00001" summary="codility 추가">
       <created>1646749473060</created>
@@ -384,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649472351409</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="42583 스택/힙 문제 추가">
+      <created>1649940018209</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1649940018210</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +420,8 @@
     <MESSAGE value="42885 end" />
     <MESSAGE value="42626 힙 add" />
     <MESSAGE value="42626 힙 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="42626 힙 수정" />
+    <MESSAGE value="42583 스택/힙 문제 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="42583 스택/힙 문제 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -453,6 +460,6 @@
     <SUITE FILE_PATH="coverage/algorithm$solution__1_.coverage" NAME="solution (1) 커버리지 결과" MODIFIED="1649244816509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/탐욕법(Greedy)/구명보트" />
     <SUITE FILE_PATH="coverage/algorithm$ffff.coverage" NAME="OddOccurrencesInArray Coverage Results" MODIFIED="1648040996400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k/algorithm/codility/Lesson2-Arrays" />
     <SUITE FILE_PATH="coverage/algorithm$solution__2_.coverage" NAME="solution (2) Coverage Results" MODIFIED="1649341068740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/힙/더맵게" />
-    <SUITE FILE_PATH="coverage/algorithm$42583.coverage" NAME="42583 커버리지 결과" MODIFIED="1649939993980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/스택큐/다리를지나는트럭" />
+    <SUITE FILE_PATH="coverage/algorithm$42583.coverage" NAME="42583 커버리지 결과" MODIFIED="1649939996353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/프로그래머스/스택큐/다리를지나는트럭" />
   </component>
 </project>

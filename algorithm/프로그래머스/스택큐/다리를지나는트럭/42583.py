@@ -47,7 +47,7 @@ def solution(bridge_length, weight, truck_weights):
                 trucks_on_bridge.append(truck_weights.pop(0))
             else:
                 trucks_on_bridge.append(0)
-    return answer
+    return print(answer)
 
 if __name__ == "__main__":
     bridge_length = 2
