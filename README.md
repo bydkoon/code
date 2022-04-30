@@ -6,7 +6,7 @@
   - [Lesson3](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson3-Time-Complexity)
   - [Lesson4](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson4-Counting-Elements)
   - [Lesson5](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson5-Prefix-Sums)
-  - [Lesson6](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Soring)
+  - [Lesson6](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting)
     + [Distinct](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting/Distinct/python)
 
 * [프로그래머스](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스) 
@@ -21,5 +21,5 @@
 
 # java
 * [codility](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스) 
-  - [Lesson6](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Soring)
+  - [Lesson6](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting)
     + [Distinct](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting/Distinct/java)
