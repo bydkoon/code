@@ -16,10 +16,6 @@ def solution(A):
             count += 1
     return count
 
-        
-            
-    return A
-
 if __name__ == "__main__":
 
     A = [2,1,1,2,3,1]
