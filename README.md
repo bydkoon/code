@@ -1,5 +1,6 @@
 
 # 알고리즘 연습 (for Python)
+
 * [codlilty](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility)
   - [Lesson1](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson1-Iterations)
   - [Lesson2](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson2-Arrays)
@@ -8,6 +9,8 @@
   - [Lesson5](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson5-Prefix-Sums)
   - [Lesson6](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting)
     + [Distinct](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting/Distinct/python)
+    + [MaxProductOfThree](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting/MaxProductOfThree/python)
+    + [Triangle](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting/Triangle/python)
 
 * [프로그래머스](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스) 
   - [2016년](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/2016년)
@@ -23,3 +26,6 @@
 * [codility](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스) 
   - [Lesson6](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting)
     + [Distinct](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting/Distinct/java)
+    + [MaxProductOfThree](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting/MaxProductOfThree/java)
+    + [Triangle](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting/Triangle/java)
+
