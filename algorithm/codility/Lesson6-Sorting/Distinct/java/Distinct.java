@@ -5,7 +5,7 @@ public class Distinct {
     public int solution(int[] A){
         System.out.println(Arrays.toString(A));
         Arrays.sort(A);
-        int count = 0;
+        int count = 1;
 
         System.out.println(Arrays.toString(A));
         int N = A.length;
@@ -14,7 +14,7 @@ public class Distinct {
             return 0;
         }
         for (int i = 1; i < N; i++) {
-            if (A[i]-1 != A[i]) {
+            if (A[i-1] != A[i]) {
                 count += 1;
                 
             }
