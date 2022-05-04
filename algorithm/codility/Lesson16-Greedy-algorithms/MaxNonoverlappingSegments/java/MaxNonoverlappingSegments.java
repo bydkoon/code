@@ -12,14 +12,8 @@ class MaxNonoverlappingSegments {
             if(A[i] > end){
                 segment++;
                 end = B[i];
-
-
-                
             }
-            
         }
-
-
         return segment;
     }
     
