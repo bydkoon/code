@@ -1,4 +1,8 @@
-# 알고리즘 연습 (for Python)
+# 알고리즘 연습 
+  - codility, programmers
+  - python, java 
+  
+## Python
 
 * [codlilty](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility)
   - [Lesson1 Iterations](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson1-Iterations)
@@ -18,7 +22,7 @@
     + [MaxNonoverlappingSegments](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson16-Greedy-algorithms/MaxNonoverlappingSegments/python)
     + [TieRopes](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson16-Greedy-algorithms/TieRopes/python)
 
-* [프로그래머스](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스) 
+* [programmers](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스) 
   - [2016년](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/2016년)
   - [더맵게](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/더맵게)
   - [다리를지나는트럭](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/스택큐/다리를지나는트럭)
@@ -28,7 +32,7 @@
 
 ---
 
-# java
+## java
 * [codility](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스) 
   - [Lesson6 Sorting](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting)
     + [Distinct](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting/Distinct/java)
