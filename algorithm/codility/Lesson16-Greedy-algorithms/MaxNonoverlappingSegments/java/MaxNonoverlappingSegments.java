@@ -23,7 +23,8 @@ class MaxNonoverlappingSegments {
         int[] B = {5,6,8,9,10};
 
         MaxNonoverlappingSegments maxNonoverlappingSegments = new MaxNonoverlappingSegments();
-        maxNonoverlappingSegments.solution(A,B);
+        int result = maxNonoverlappingSegments.solution(A,B);
+        System.out.println(result);
 
     }
 }
