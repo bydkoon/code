@@ -1,0 +1,105 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Four",
+            "request": "launch",
+            "mainClass": "Four",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Two",
+            "request": "launch",
+            "mainClass": "Two",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Three",
+            "request": "launch",
+            "mainClass": "Three",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch One",
+            "request": "launch",
+            "mainClass": "One",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nesting",
+            "request": "launch",
+            "mainClass": "Nesting",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TieRopes",
+            "request": "launch",
+            "mainClass": "TieRopes",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxNonoverlappingSegments",
+            "request": "launch",
+            "mainClass": "MaxNonoverlappingSegments",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fish",
+            "request": "launch",
+            "mainClass": "Fish",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Brackets",
+            "request": "launch",
+            "mainClass": "Brackets",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxProductOfThree",
+            "request": "launch",
+            "mainClass": "MaxProductOfThree",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Distinct",
+            "request": "launch",
+            "mainClass": "Distinct",
+            "projectName": "algorithm_ed0711d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

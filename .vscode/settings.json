@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "algorithm/codility/Lesson7-Stacks-and-Queues/Nesting/java",
+        "algorithm/codility/Lesson7-Stacks-and-Queues/Fish/java",
+        "algorithm/codility/Lesson7-Stacks-and-Queues/Brackets/java",
+        "algorithm/codility/Lesson6-Sorting/Triangle/java",
+        "algorithm/codility/Lesson6-Sorting/MaxProductOfThree/java",
+        "algorithm/codility/Lesson6-Sorting/Distinct/java",
+        "algorithm/codility/Lesson16-Greedy-algorithms/TieRopes/java",
+        "algorithm/codility/Lesson16-Greedy-algorithms/MaxNonoverlappingSegments/java",
+        "algorithm/codility/Yanolja"
+    ]
+}
