@@ -1,4 +1,4 @@
-public class template {
+public class StoneWall {
     public void solution(int[] A){
     }
     
