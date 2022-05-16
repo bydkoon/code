@@ -1,14 +1,7 @@
-# import sys
-# sys.path.append('/Users/k/algorithm/algorithm/codility/Lesson7-Stacks-and-Queues/StoneWall/python/src')
-# print(sys.path)
-
 import unittest
-
 import sys
 from os import path
-print(path.dirname( path.dirname( path.abspath(__file__) ) ))
-sys.path.append(path.dirname( path.dirname( path.abspath(__file__) ) ))
-
+sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 from src.stoneWall import solution
 
 
@@ -23,5 +16,4 @@ class TestSolution(unittest.TestCase):
 
 # unittest를 실행
 if __name__ == '__main__':  
-    
     unittest.main()

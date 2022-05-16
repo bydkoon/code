@@ -17,8 +17,7 @@ def solution(H: list)-> int:
     return count
 
 
-if __name__ == "__main__":
-    solution()
+
 
 
 
