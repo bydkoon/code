@@ -1,4 +1,6 @@
 
+(√):Redo
+
 # 알고리즘 연습 (for Python)
 
 * [codlilty](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility)
@@ -13,7 +15,9 @@
     + [Triangle](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson6-Sorting/Triangle/python)
   - [Lesson7 Stacks-and-Queues](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson7-Stacks-and-Queues)
     + [Brackets](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson7-Stacks-and-Queues/Brackets/python)
-    + [MaxProductOfThree](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson7-Stacks-and-Queues/MaxProductOfThree/python)
+    + [Fish](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson7-Stacks-and-Queues/Fish/python)
+    + [Nesting](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson7-Stacks-and-Queues/Nesting/python) (√)
+    + [StoneWall](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson7-Stacks-and-Queues/StoneWall/python) (√)
   
   - [Lesson16 Greedy-algorithms](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson16-Greedy-algorithms)
     + [MaxNonoverlappingSegments](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson16-Greedy-algorithms/MaxNonoverlappingSegments/python)
@@ -43,3 +47,4 @@
   - [Lesson16 Greedy-algorithms](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson16-Greedy-algorithms)
     + [MaxNonoverlappingSegments](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson16-Greedy-algorithms/MaxNonoverlappingSegments/java)
     + [TieRopes](https://github.com/bydkoon/algorithm/tree/master/algorithm/codility/Lesson16-Greedy-algorithms/TieRopes/java)
+
