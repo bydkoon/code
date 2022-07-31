@@ -2,7 +2,8 @@ import unittest
 import sys
 from os import path
 sys.path.append(path.dirname( path.dirname( path.abspath(__file__))))
-from .. import solution
+
+from src.solution import solution
 
 
 class TestSolution(unittest.TestCase):
