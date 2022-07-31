@@ -30,6 +30,11 @@
   - [조이스틱](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/조이스틱)
   - [탐욕법](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/탐욕법(Greedy))
   - [더맵게](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/힙/더맵게)
+  - [skillTestLv1](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/skillTestLv1)
+    + [select1](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/skillTestLv1/section1)
+    + [select2](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/skillTestLv1/section2)
+    + [select3](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/skillTestLv1/section3)
+    + [select4](https://github.com/bydkoon/algorithm/tree/master/algorithm/프로그래머스/skillTestLv1/section4)
 
 ---
 
