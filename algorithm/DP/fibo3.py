@@ -1,3 +1,5 @@
+#보텀업 개미전사 문제
+
 n = int(input())
 # 정수 n을 입력 받는다.
 
@@ -5,6 +7,7 @@ array = list(map(int, input().split()))
 
 d = [0] * 100
 
+# dp 진행 (보텀업)
 d[0] = array[0]
 d[1] = max(array[0] , array[1])
 
