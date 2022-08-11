@@ -25,7 +25,7 @@ for tc in range(int(input())):
             else: 
                 left_up = dp[i-1][j-1]
             #왼쪽 아래에서 오는경우
-            if i == n -1: 
+            if i == n - 1: 
                 left_down = 0
             else: 
                 left_down = dp[i+1][j-1]
